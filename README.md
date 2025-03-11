@@ -11,15 +11,14 @@ Currently, I’m at **IIT (Italian Institute of Technology)**, working on **mult
 ## 🚀 Research & Projects  
 - **[Continual Learning](https://github.com/mtiezzi/continual_neural_unit)** 🧠 – Developing architectures for lifelong learning in robots and deep networks.  
 - **[Graph Representation Learning](https://sailab.diism.unisi.it/gnn/)** 🔗 – Creator of open-source libraries for training and inference in Graph Neural Networks.  
-- **[Sequence Processing](https://github.com/mtiezzi/memory_head)** ⏳ – Investigating Recurrent Neural Networks, State-Space Models, and Transformers for long-sequence modeling.  
+- **[Sequence Processing](https://arxiv.org/abs/2402.08132)** ⏳ – Investigating Recurrent Neural Networks, State-Space Models, and Transformers for long-sequence modeling.  
 - **Human-Robot Interaction** 🤖 – Multi-modal models for imitation learning and behavioral cloning.  
 
 
 ## 📚 Selected Publications  
 - **Survey:** [State-Space Modeling in Long Sequence Processing](https://arxiv.org/abs/2406.09062) (Under review)  
 - **Continual Learning:** [Memory Head for Pretrained Backbones](https://github.com/mtiezzi/memory_head) (CoLLAs 2024)  
-- **Graph Neural Networks:** [Deep Constraint-Based Propagation](https://github.com/mtiezzi/torch_gnn) (TPAMI)  
-- **Human-inspired XAI:** [FovEx - Explainable AI for Vision Transformers](https://github.com/mtiezzi/foveated_neural_computation) (ECCV 2024)
+- **Graph Neural Networks:** [Deep Constraint-Based Propagation](https://github.com/mtiezzi/lpgnn) (TPAMI)  
 - **Spatio-temporal visual streams**: [Focus of Attention Improves Information Transfer in Visual Features](https://github.com/mtiezzi/foveated_neural_computation) (NeurIPS)
 - **Human-inspired neural architectures**: [Foveated Neural Computation](https://github.com/mtiezzi/foveated_neural_computation) (ECML 2022)
 
