@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Matteo Tiezzi  
+![image](https://github.com/user-attachments/assets/88e31e38-ba9f-4a59-a1b9-c1e6ef35eadc)# Hi there 👋 I'm Matteo Tiezzi  
 
 🔬 **Postdoctoral Researcher** | **Artificial Intelligence, Machine Learning, Lifelong Learning, Graph Representation Learning, Computer Vision**  
 📍 Genoa, Italy | [Website](https://mtiezzi.github.io) | [Google Scholar](https://scholar.google.com/citations?user=HJ2TW1YAAAAJ)  
@@ -30,7 +30,7 @@ Currently, I’m at **IIT (Italian Institute of Technology)**, working on **mult
 ## 📫 Get in Touch  
 💻 **GitHub:** [mtiezzi](https://github.com/mtiezzi)  
 🔗 **LinkedIn:** [mtiezzi](https://www.linkedin.com/in/mtiezzi)  
-🐦 **Twitter:** [@TiezziMatteo](https://twitter.com/TiezziMatteo)  
+𝕏 **Twitter:** [@TiezziMatteo](https://twitter.com/TiezziMatteo)  
 
 
 [![Matteo's GitHub stats](https://github-readme-stats.vercel.app/api?username=mtiezzi)](https://github.com/anuraghazra/github-readme-stats)
