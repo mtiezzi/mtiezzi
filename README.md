@@ -10,7 +10,7 @@ Currently, I’m at **IIT (Italian Institute of Technology)**, working on **mult
 
 ## 🚀 Research & Projects  
 - **[Continual Learning](https://github.com/mtiezzi/continual_neural_unit)** 🧠 – Developing architectures for lifelong learning in robots and deep networks.  
-- **[Graph Representation Learning](https://github.com/mtiezzi/torch_gnn)** 🔗 – Creator of open-source libraries for training and inference in Graph Neural Networks.  
+- **[Graph Representation Learning](https://sailab.diism.unisi.it/gnn/)** 🔗 – Creator of open-source libraries for training and inference in Graph Neural Networks.  
 - **[Sequence Processing](https://github.com/mtiezzi/memory_head)** ⏳ – Investigating Recurrent Neural Networks, State-Space Models, and Transformers for long-sequence modeling.  
 - **Human-Robot Interaction** 🤖 – Multi-modal models for imitation learning and behavioral cloning.  
 
