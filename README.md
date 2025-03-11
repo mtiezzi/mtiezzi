@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/88e31e38-ba9f-4a59-a1b9-c1e6ef35eadc)# Hi there 👋 I'm Matteo Tiezzi  
+# Hi there 👋 I'm Matteo Tiezzi  
 
 🔬 **Postdoctoral Researcher** | **Artificial Intelligence, Machine Learning, Lifelong Learning, Graph Representation Learning, Computer Vision**  
 📍 Genoa, Italy | [Website](https://mtiezzi.github.io) | [Google Scholar](https://scholar.google.com/citations?user=HJ2TW1YAAAAJ)  
