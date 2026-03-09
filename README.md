@@ -6,7 +6,7 @@
 ## 🧑‍💻 About Me  
 I’m a researcher in **Continual Learning, Video Understanding, Graph Neural Networks, and Sequence Modeling** with experience in deep learning frameworks like PyTorch and TensorFlow. My work has led to **32+ publications (14 first-author)** in top AI conferences (NeurIPS, AAAI, IJCAI) and journals (Nature Machine Intelligence, TPAMI, TNNLS).  
 
-Currently, I’m at **IIT (Italian Institute of Technology)**, working on **multi-modal learning for Human-Robot Interaction**. Previously, I was at the **University of Siena**, where I developed models for sequence processing, self-supervised learning, and Continual Learning.  
+Currently, I’m a Machine Learning Tech Lead @ **Generative Bionics (Italian Institute of Technology)**, working on **multi-modal learning for Humanoid Robots**. Previously, I was at the **Italian Institute of Technology (IIT)**, where I developed models for sequence processing, self-supervised learning, and Continual Learning.  
 
 ## 🚀 Research & Projects  
 - **[Continual Learning](https://github.com/mtiezzi/continual_neural_unit)** 🧠 – Developing architectures for lifelong learning in robots and deep networks.  
