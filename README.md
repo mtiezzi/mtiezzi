@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Matteo Tiezzi  
 
-🔬 **Postdoctoral Researcher** | **Artificial Intelligence, Machine Learning, Lifelong Learning, Graph Representation Learning, Computer Vision**  
+🔬 ML Tech Lead | **Artificial Intelligence, Machine Learning, Lifelong Learning, Graph Representation Learning, Computer Vision**  
 📍 Genoa, Italy | [Website](https://mtiezzi.github.io) | [Google Scholar](https://scholar.google.com/citations?user=HJ2TW1YAAAAJ)  
 
 ## 🧑‍💻 About Me  
