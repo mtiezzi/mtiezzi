@@ -32,4 +32,3 @@ Currently, I’m a Machine Learning Tech Lead @ [**Generative Bionics**](https:/
 𝕏 **Twitter:** [@TiezziMatteo](https://twitter.com/TiezziMatteo)  
 
 
-[![Matteo's GitHub stats](https://github-readme-stats.vercel.app/api?username=mtiezzi)](https://github.com/anuraghazra/github-readme-stats)
